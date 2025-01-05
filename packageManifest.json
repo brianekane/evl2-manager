@@ -1,0 +1,18 @@
+{
+  "packageName": "EVL2 Manager",
+  "author": "Brian Kane",
+  "version": "1.0.0",
+  "minimumHEVersion": "2.0",
+  "dateReleased": "2025-01-05",
+  "apps": [
+    {
+      "id": "6a8fda31-d67f-4b37-91ac-eb33ffb0a66d",
+      "name": "EVL2 Manager",
+      "namespace": "odwp",
+      "location": "https://raw.githubusercontent.com/brianekane/evl2-manager/main/apps/evl2-manager.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": true
+    }
+  ]
+}
